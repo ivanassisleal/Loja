@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qd0lW+IsbzWjOsMqyVcC8a7siT38lC41XI3P0XU3nby22PNLq89Dx+92/uuX5D9nBM0cAeyaYff/4x3qwO2MfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proco\\Desktop\\ivan\\Loja\\Loja.Dominio\\Loja.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proco\\.nuget\\packages\\flunt\\2.0.2\\flunt.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

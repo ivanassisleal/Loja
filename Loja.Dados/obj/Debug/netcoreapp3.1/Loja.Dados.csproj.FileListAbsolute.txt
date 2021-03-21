@@ -1,0 +1,15 @@
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dados.deps.json
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dados.dll
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dados.pdb
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.AssemblyInfoInputs.cache
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.AssemblyInfo.cs
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.csproj.CoreCompileInputs.cache
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.dll
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.pdb
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dados.runtimeconfig.json
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dados.runtimeconfig.dev.json
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dominio.dll
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\bin\Debug\netcoreapp3.1\Loja.Dominio.pdb
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.csprojAssemblyReference.cache
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.csproj.CopyComplete
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dados\obj\Debug\netcoreapp3.1\Loja.Dados.genruntimeconfig.cache

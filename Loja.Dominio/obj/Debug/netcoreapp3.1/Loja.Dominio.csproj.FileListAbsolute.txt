@@ -1,0 +1,9 @@
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\bin\Debug\netcoreapp3.1\Loja.Dominio.deps.json
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\bin\Debug\netcoreapp3.1\Loja.Dominio.dll
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\bin\Debug\netcoreapp3.1\Loja.Dominio.pdb
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.AssemblyInfoInputs.cache
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.AssemblyInfo.cs
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.dll
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.pdb
+C:\Users\proco\Desktop\ivan\Loja\Loja.Dominio\obj\Debug\netcoreapp3.1\Loja.Dominio.csprojAssemblyReference.cache
