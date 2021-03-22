@@ -52,7 +52,7 @@ namespace Loja.Api.Controllers
             if (resultado.HasErrors())
                 return BadRequest(resultado.GetErrors());
 
-            return CreatedAtAction( nameof(IncluirPedido), new { id = pedido.Id });
+            return CreatedAtAction( nameof(IncluirPedido), new { id = pedido.Id, ValorTotal = pedido.ValorTotal });
         }
 
         [HttpPut("{id}")]
