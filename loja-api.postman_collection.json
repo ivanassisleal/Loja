@@ -14,12 +14,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/clientes/1",
-							"protocol": "https",
+							"raw": "{{base_url}}/clientes/1",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"clientes",
 								"1"
@@ -34,12 +32,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/clientes",
-							"protocol": "https",
+							"raw": "{{base_url}}/clientes",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"clientes"
 							]
@@ -54,7 +50,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"Nome\":\"Osvlado\",\r\n    \"Email\":\"osvlado@gmail.com\",\r\n    \"Aldeia\":\"Teste\"\r\n}",
+							"raw": "{\r\n    \"Nome\":\"Ivan\",\r\n    \"Email\":\"ivan.leal@gmail.com\",\r\n    \"Aldeia\":\"Teste\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -62,12 +58,10 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/clientes",
-							"protocol": "https",
+							"raw": "{{base_url}}/clientes",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"clientes"
 							]
@@ -82,7 +76,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"Id\": 5,\r\n    \"Nome\":\"Osvlado Freitas XYZ \",\r\n    \"Email\":\"osvlado@gmail.com\",\r\n    \"Aldeia\":\"Teste\"\r\n}",
+							"raw": "{\r\n    \"Id\": 9,\r\n    \"Nome\":\"Ivan de Assis Leal \",\r\n    \"Email\":\"ivanleal@gmail.com\",\r\n    \"Aldeia\":\"Teste\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -90,15 +84,13 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/clientes/5",
-							"protocol": "https",
+							"raw": "{{base_url}}/clientes/9",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"clientes",
-								"5"
+								"9"
 							]
 						}
 					},
@@ -110,15 +102,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/clientes/4",
-							"protocol": "https",
+							"raw": "{{base_url}}/clientes/5",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"clientes",
-								"4"
+								"5"
 							]
 						}
 					},
@@ -135,12 +125,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/produtos",
-							"protocol": "https",
+							"raw": "{{base_url}}/produtos",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"produtos"
 							]
@@ -154,12 +142,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/produtos/1",
-							"protocol": "https",
+							"raw": "{{base_url}}/produtos/1",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"produtos",
 								"1"
@@ -175,7 +161,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"Descricao\":\"Artefato B\",\r\n    \"Valor\":40\r\n}",
+							"raw": "{\r\n    \"Descricao\":\"Artefato C\",\r\n    \"Valor\":40\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -183,12 +169,10 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/produtos",
-							"protocol": "https",
+							"raw": "{{base_url}}/produtos",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"produtos"
 							]
@@ -203,7 +187,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"Id:\"1,\r\n    \"Descricao\":\"Artefato A\",\r\n    \"Valor\":35.90\r\n}",
+							"raw": "{\r\n    \"Id\":5,\r\n    \"Descricao\":\"Artefato C\",\r\n    \"Valor\":39\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -211,15 +195,13 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/produtos/1",
-							"protocol": "https",
+							"raw": "{{base_url}}/produtos/5",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"produtos",
-								"1"
+								"5"
 							]
 						}
 					},
@@ -231,12 +213,10 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/produtos/5",
-							"protocol": "https",
+							"raw": "{{base_url}}/produtos/5",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"produtos",
 								"5"
@@ -256,12 +236,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/pedidos",
-							"protocol": "https",
+							"raw": "{{base_url}}/pedidos",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"pedidos"
 							]
@@ -275,15 +253,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/pedidos/1",
-							"protocol": "https",
+							"raw": "{{base_url}}/pedidos/6",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"pedidos",
-								"1"
+								"6"
 							]
 						}
 					},
@@ -304,12 +280,10 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/pedidos",
-							"protocol": "https",
+							"raw": "{{base_url}}/pedidos",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"pedidos"
 							]
@@ -324,7 +298,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"Id\":4,\r\n    \"ClienteId\": 1,\r\n    \"Desconto\": 6,\r\n    \"Produtos\":[\r\n        {\r\n            \"ProdutoId\": 1\r\n        },\r\n        {\r\n            \"ProdutoId\": 3\r\n        },\r\n        {\r\n            \"ProdutoId\": 4\r\n        }\r\n    ]\r\n}",
+							"raw": "{\r\n    \"Id\":6,\r\n    \"ClienteId\": 1,\r\n    \"Desconto\": 6,\r\n    \"Produtos\":[\r\n        {\r\n            \"ProdutoId\": 1\r\n        },\r\n        {\r\n            \"ProdutoId\": 3\r\n        },\r\n        {\r\n            \"ProdutoId\": 4\r\n        }\r\n    ]\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -332,15 +306,13 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:44351/pedidos/4",
-							"protocol": "https",
+							"raw": "{{base_url}}/pedidos/6",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"pedidos",
-								"4"
+								"6"
 							]
 						}
 					},
@@ -352,15 +324,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:44351/pedidos/5",
-							"protocol": "https",
+							"raw": "{{base_url}}/pedidos/6",
 							"host": [
-								"localhost"
+								"{{base_url}}"
 							],
-							"port": "44351",
 							"path": [
 								"pedidos",
-								"5"
+								"6"
 							]
 						}
 					},

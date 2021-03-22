@@ -22,6 +22,7 @@ namespace Loja.Dominio.Servicos
             _pedidoRepositorio = pedidoRepositorio;
             _produtoRepositorio = produtoRepositorio;
             _unitOfWork = unitOfWork;
+
         }
 
         public async Task<Resultado> Adicionar(Pedido pedido)
