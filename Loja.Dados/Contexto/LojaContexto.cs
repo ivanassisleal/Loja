@@ -24,8 +24,11 @@ namespace Loja.Dados.Contexto
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=Loja;Integrated Security=True");
-            base.OnConfiguring(optionsBuilder);
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=Loja;Integrated Security=True");
+                base.OnConfiguring(optionsBuilder);
+            }
         }
 
         public DbSet<Cliente> Clientes { get; set; }
